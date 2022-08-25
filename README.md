@@ -13,8 +13,8 @@
 
 <h1 align="center">✨ My GitHub Stats ✨</h1>
 
-<img align="left" style="margin:10px" src="https://github-readme-stats.vercel.app/api?username=seoulsky&hide=contribs&count_private=true%show_icons=true&theme=dracula">
+<img align="center" style="margin:10px" src="https://github-readme-stats.vercel.app/api?username=seoulsky&hide=contribs&count_private=true%show_icons=true&theme=dracula">
 
-<img align="left" style="margin:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoulsky&theme=dracula&exclude_repo=fintech&layout=compact">
+<img align="center" style="margin:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoulsky&theme=dracula&exclude_repo=fintech&layout=compact">
 
-<img align="left" style="margin:10px" src="http://github-readme-streak-stats.herokuapp.com?user=seoulsky&theme=dark">
+<img align="center" style="margin:10px" src="http://github-readme-streak-stats.herokuapp.com?user=seoulsky&theme=dark">
