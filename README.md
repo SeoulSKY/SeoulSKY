@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SeoulSKY</h1>
 <h3 align="center">I'm a passionate computer science student in Canada</h3>
 
-![](https://komarev.com/ghpvc/?username=seoulsky) ![](https://img.shields.io/badge/Pull%20request-welcome-green)
+![](https://komarev.com/ghpvc/?username=seoulsky) ![](https://img.shields.io/badge/Pull%20requests-welcome-green)
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seoulsky" alt="seoulsky" /></a> </p>
