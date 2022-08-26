@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SeoulSKY</h1>
-<h3 align="center">A passionate computer science student in Canada</h3>
+<h3 align="center">I'm a passionate computer science student in Canada</h3>
 
 ![](https://komarev.com/ghpvc/?username=seoulsky)
 
@@ -17,7 +17,7 @@
 <p align="center" style="margin:20px">
   <img style="margin:inherit" src="https://github-readme-stats.vercel.app/api?username=seoulsky&hide=contribs&count_private=true%show_icons=true&theme=dracula">
 
-  <img style="margin:inherit" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoulsky&theme=dracula&exclude_repo=fintech&layout=compact">
+  <img style="margin:inherit" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoulsky&theme=dracula&exclude_repo=fintech&layout=compact&langs_count=8">
 
   <img style="margin:inherit" src="http://github-readme-streak-stats.herokuapp.com?user=seoulsky&theme=dark">
 </p>
