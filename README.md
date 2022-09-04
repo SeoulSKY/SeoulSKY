@@ -15,7 +15,7 @@
 
 <h1 align="center">✨ My GitHub Stats ✨</h1>
 <p align="center" style="margin:20px">
-  <img style="margin:inherit" src="https://github-readme-stats.vercel.app/api?username=seoulsky&hide=contribs&include_all_commits=true&show_icons=true&theme=dracula">
+  <img style="margin:inherit" src="https://github-readme-stats.vercel.app/api?username=seoulsky&hide=contribs&show_icons=true&theme=dracula">
 
   <img style="margin:inherit" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoulsky&theme=dracula&exclude_repo=fintech&layout=compact&langs_count=8">
 
