@@ -19,5 +19,5 @@
 
   <img style="margin:inherit" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoulsky&theme=dracula&exclude_repo=fintech&layout=compact&langs_count=8">
 
-  <img style="margin:inherit" src="http://github-readme-streak-stats.herokuapp.com?user=seoulsky&theme=dark">
+  <img style="margin:inherit" src="http://github-readme-streak-stats.herokuapp.com?user=seoulsky&theme=dracula">
 </p>
