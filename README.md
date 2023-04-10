@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=seoulsky&hide=contribs&show_icons=true&theme=dracula"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoulsky&theme=dracula&exclude_repo=fintech&hide=shaderlab,objective-c,objective-c++,hlsl,css&layout=compact&langs_count=8"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoulsky&theme=dracula&exclude_repo=fintech&hide=css,shell&layout=compact&langs_count=8"></td>
     <td><img src="http://github-readme-streak-stats.herokuapp.com?user=seoulsky&theme=dracula"></td>
   </tr>
  </table>
