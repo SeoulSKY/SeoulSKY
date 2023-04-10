@@ -7,7 +7,7 @@
 </div>
 
 <div align="right">
-  <img src="https://github-profile-trophy.vercel.app/?username=seoulsky&theme=onedark&rank=SECRET,S,AAA,AA,A&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=seoulsky&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true" />
 </div>
 
 - 📫 How to reach me **swkim7519@protonmail.ch**
