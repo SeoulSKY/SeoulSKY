@@ -3,9 +3,9 @@
 
 ![](https://komarev.com/ghpvc/?username=seoulsky) ![](https://img.shields.io/badge/Pull%20requests-welcome-green)
 
-<!--
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seoulsky" alt="seoulsky" /></a> </p>
--->
+
 
 - 📫 How to reach me **swkim7519@protonmail.ch**
 
@@ -14,10 +14,12 @@
 
 
 <h1 align="center">✨ My GitHub Stats ✨</h1>
-<p align="center" style="margin:20px">
-  <img style="margin:inherit" src="https://github-readme-stats.vercel.app/api?username=seoulsky&hide=contribs&show_icons=true&theme=dracula">
 
-  <img style="margin:inherit" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoulsky&theme=dracula&exclude_repo=fintech&layout=compact&langs_count=8">
-
-  <img style="margin:inherit" src="http://github-readme-streak-stats.herokuapp.com?user=seoulsky&theme=dracula">
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=seoulsky&hide=contribs&show_icons=true&theme=dracula"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoulsky&theme=dracula&exclude_repo=fintech&layout=compact&langs_count=8"></td>
+    <td><img src="http://github-readme-streak-stats.herokuapp.com?user=seoulsky&theme=dracula"></td>
+  </tr>
+ </table>
+ 
