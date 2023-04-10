@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SeoulSKY</h1>
-<h3 align="center">I'm a passionate computer science student in Canada</h3>
+<h3 align="center">I'm a passionate Computer Science and Applied Mathematics undergraduate student in Canada</h3>
 
 <div float="left" align="center">
   <img src="https://komarev.com/ghpvc/?username=seoulsky" />
