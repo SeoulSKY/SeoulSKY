@@ -22,8 +22,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoulsky&theme=dracula&exclude_repo=fintech&hide=css,shell&layout=compact&langs_count=8">
 </p>
 <p align="center">
-  <img width="500" height="auto" src="https://github-readme-stats.vercel.app/api?username=seoulsky&hide=contribs&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=seoulsky&hide=contribs&show_icons=true&include_all_commits=true&rank_icon=github&theme=dracula">
 </p>
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=seoulsky&theme=dracula">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SeoulSKY&layout=compact&theme=dracula">
 </p>
