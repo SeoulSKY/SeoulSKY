@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Pull%20requests-welcome-green" />
 </div>
 
-<p align="right">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=seoulsky&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true" />
 </p>
 
