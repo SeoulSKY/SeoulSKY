@@ -6,9 +6,9 @@
   <img src="https://img.shields.io/badge/Pull%20requests-welcome-green" />
 </div>
 
-<div align="right">
+<p align="right">
   <img src="https://github-profile-trophy.vercel.app/?username=seoulsky&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true" />
-</div>
+</p>
 
 - 📫 How to reach me **swkim7519@protonmail.ch**
 
@@ -18,11 +18,12 @@
 
 <h1 align="center">✨ My GitHub Stats ✨</h1>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=seoulsky&hide=contribs&show_icons=true&theme=dracula"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoulsky&theme=dracula&exclude_repo=fintech&hide=css,shell&layout=compact&langs_count=8"></td>
-    <td><img src="http://github-readme-streak-stats.herokuapp.com?user=seoulsky&theme=dracula"></td>
-  </tr>
- </table>
- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoulsky&theme=dracula&exclude_repo=fintech&hide=css,shell&layout=compact&langs_count=8">
+</p>
+<p align="center">
+  <img width="500" height="auto" src="https://github-readme-stats.vercel.app/api?username=seoulsky&hide=contribs&show_icons=true&theme=dracula">
+</p>
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=seoulsky&theme=dracula">
+</p>
