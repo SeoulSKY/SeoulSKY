@@ -13,11 +13,10 @@
 
 - 📫 How to reach me **swkim7519@protonmail.ch**
 
-<h3 align="left">My Skills:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,bash,c,cs,css,discord,docker,express,figma,firebase,flask,git,github,go,gradle,html,idea,java,js,latex,linux,md,matlab,mysql,nodejs,ps,postgres,postman,pr,py,react,rocket,rust,scala,ts,unity,vscode" />
-  </a>
+<h1 align="center">📱 My Skills 💻 </h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ae,bash,c,cs,css,discord,docker,express,figma,firebase,flask,git,github,go,gradle,html,idea,java,js,latex,linux,md,matlab,mysql,nodejs,ps,postgres,postman,pr,py,react,rocket,rust,scala,ts,unity,vscode" />
 </p>
 
 
