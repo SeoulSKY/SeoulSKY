@@ -3,6 +3,7 @@
 
 <div float="left" align="center">
   <img src="https://komarev.com/ghpvc/?username=seoulsky" />
+  <img src="https://wakatime.com/badge/user/81ff4d2d-e803-4e4e-8f70-8407531e5f8b.svg">
   <img src="https://img.shields.io/badge/Pull%20requests-welcome-green" />
 </div>
 
