@@ -8,7 +8,7 @@
 </div>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=seoulsky&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=seoulsky&theme=transparent&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true" />
 </p>
 
 - 📫 How to reach me **swkim7519@protonmail.ch**
@@ -27,14 +27,14 @@
 <h1 align="center">✨ My GitHub Stats ✨</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoulsky&theme=dracula&exclude_repo=fintech&hide=css,shell&layout=compact&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoulsky&theme=transparent&exclude_repo=fintech&hide=css,shell&layout=compact&langs_count=8">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seoulsky&hide=contribs&show_icons=true&include_all_commits=true&rank_icon=github&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=seoulsky&hide=contribs&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent">
 </p>
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=seoulsky&theme=dracula">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=seoulsky&theme=transparent">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SeoulSKY&layout=compact&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SeoulSKY&layout=compact&theme=transparent">
 </p>
