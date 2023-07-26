@@ -1,4 +1,3 @@
-
 ![github-header-image](https://github.com/SeoulSKY/SeoulSKY/assets/48105703/043bd003-8cfb-4bdc-ac96-684a62c29793)
 
 <div float="left" align="center">
@@ -7,6 +6,7 @@
   <img src="https://img.shields.io/badge/Pull%20requests-welcome-green" />
 </div>
 
+<br>
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=seoulsky&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A" />
