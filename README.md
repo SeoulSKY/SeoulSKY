@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm SeoulSKY</h1>
-<h3 align="center">I'm a passionate Computer Science and Applied Mathematics undergraduate student in Canada</h3>
+
+![github-header-image](https://github.com/SeoulSKY/SeoulSKY/assets/48105703/043bd003-8cfb-4bdc-ac96-684a62c29793)
 
 <div float="left" align="center">
   <img src="https://komarev.com/ghpvc/?username=seoulsky" />
   <img src="https://wakatime.com/badge/user/81ff4d2d-e803-4e4e-8f70-8407531e5f8b.svg">
   <img src="https://img.shields.io/badge/Pull%20requests-welcome-green" />
 </div>
+
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=seoulsky&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A" />
