@@ -37,5 +37,5 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=seoulsky&theme=dracula">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SeoulSKY&layout=compact&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SeoulSKY&custom_title=Time%20Spent%20Since:%208%20July%202023&layout=compact&theme=dracula">
 </p>
