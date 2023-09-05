@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/SeoulSKY/SeoulSKY/assets/48105703/043bd003-8cfb-4bdc-ac96-684a62c29793)
+<img src="https://github.com/SeoulSKY/SeoulSKY/assets/48105703/52254c0d-6bd3-4dd7-a21f-3ec66d384fc7">
 
 <div float="left" align="center">
   <img src="https://komarev.com/ghpvc/?username=seoulsky" />
