@@ -1,4 +1,4 @@
-<img src="https://github.com/SeoulSKY/SeoulSKY/assets/48105703/52254c0d-6bd3-4dd7-a21f-3ec66d384fc7">
+<img src="https://github.com/SeoulSKY/SeoulSKY/assets/48105703/dc8ea597-c894-4d57-8a6c-d8ed99215004">
 
 <div float="left" align="center">
   <img src="https://komarev.com/ghpvc/?username=seoulsky" />
