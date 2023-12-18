@@ -1,4 +1,7 @@
-<img src="https://github.com/SeoulSKY/SeoulSKY/assets/48105703/dc8ea597-c894-4d57-8a6c-d8ed99215004">
+
+<a href="https://www.seoulsky.org">
+  <img src="https://github.com/SeoulSKY/SeoulSKY/assets/48105703/dc8ea597-c894-4d57-8a6c-d8ed99215004">
+</a>
 
 <div float="left" align="center">
   <img src="https://komarev.com/ghpvc/?username=seoulsky" />
