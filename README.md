@@ -23,9 +23,9 @@
 
 <h1 align="center">📱 My Skills 💻 </h1>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ae,bash,c,cs,css,discord,docker,express,figma,firebase,flask,git,github,go,gradle,html,idea,java,js,latex,linux,md,matlab,mysql,nodejs,ps,postgres,postman,pr,py,react,rocket,rust,scala,ts,unity,vscode" />
-</p>
+<a href="https://www.seoulsky.org/#skills" align="center">
+  <img src="https://github.com/SeoulSKY/SeoulSKY/blob/main/assets/skills.gif" />
+</a>
 
 
 <h1 align="center">✨ My GitHub Stats ✨</h1>
