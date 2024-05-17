@@ -1,4 +1,3 @@
-
 <a href="https://www.seoulsky.org">
   <img src="https://github.com/SeoulSKY/SeoulSKY/blob/main/assets/header.gif">
 </a>
@@ -23,7 +22,7 @@
 
 <h1 align="center">📱 My Skills 💻 </h1>
 
-<a href="https://www.seoulsky.org/#skills" align="center">
+<a href="https://www.seoulsky.org" align="center">
   <img src="https://github.com/SeoulSKY/SeoulSKY/blob/main/assets/skills.gif" />
 </a>
 
