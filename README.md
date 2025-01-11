@@ -1,4 +1,4 @@
-<a href="https://www.seoulsky.dev" align="center" blank="_target">
+<a href="https://www.seoulsky.dev" align="center">
   <img src="https://github.com/SeoulSKY/SeoulSKY/blob/main/assets/hero.gif">
 </a>
 
@@ -16,13 +16,13 @@
 
 - 📫 How to reach me **contact@seoulsky.dev**
 
-<a href="https://www.buymeacoffee.com/SeoulSKY" target="_blank">
+<a href="https://www.buymeacoffee.com/SeoulSKY">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
 
 <h1 align="center">📱 My Skills 💻 </h1>
 
-<a href="https://www.seoulsky.dev#skills" align="center">
+<a href="https://www.seoulsky.dev/#skills" align="center">
   <img src="https://github.com/SeoulSKY/SeoulSKY/blob/main/assets/skills.gif" />
 </a>
 
