@@ -1,6 +1,8 @@
-<a href="https://www.seoulsky.dev" align="center">
-  <img src="https://github.com/SeoulSKY/SeoulSKY/blob/main/assets/hero.gif">
-</a>
+<div align="center">
+  <a href="https://www.seoulsky.dev">
+    <img src="https://github.com/user-attachments/assets/79ab15d1-5a2b-4784-a4a2-de7f5010e3cf">
+  </a>
+</div>
 
 <div float="left" align="center">
   <img src="https://komarev.com/ghpvc/?username=seoulsky" />
@@ -22,10 +24,11 @@
 
 <h1 align="center">📱 My Skills 💻 </h1>
 
-<a href="https://www.seoulsky.dev/#skills" align="center">
-  <img src="https://github.com/SeoulSKY/SeoulSKY/blob/main/assets/skills.gif" />
-</a>
-
+<div align="center">
+  <a href="https://www.seoulsky.dev/#skills">
+    <img src="https://github.com/user-attachments/assets/abffbd5d-853a-4602-b2ba-796f6d96e2f9" />
+  </a>
+</div>
 
 <h1 align="center">✨ My GitHub Stats ✨</h1>
 
