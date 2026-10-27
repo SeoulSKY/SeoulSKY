@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.seoulsky.dev">
-    <img src="https://github.com/user-attachments/assets/79ab15d1-5a2b-4784-a4a2-de7f5010e3cf">
+    <img src="assets/hero.gif" alt="Hi, I'm SeoulSKY: the Seoul skyline at dusk">
   </a>
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
   <a href="https://www.seoulsky.dev/#skills">
-    <img src="https://github.com/user-attachments/assets/abffbd5d-853a-4602-b2ba-796f6d96e2f9" />
+    <img src="assets/skills.gif" alt="Languages, frameworks and tools I work with" />
   </a>
 </div>
 
